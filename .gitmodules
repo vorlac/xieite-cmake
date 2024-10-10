@@ -1,0 +1,4 @@
+[submodule "extern/xieite-fork"]
+	path = extern/xieite-fork
+	url = https://github.com/vorlac/xieite.git
+	branch = cmake-modules-example
